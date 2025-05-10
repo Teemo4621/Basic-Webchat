@@ -112,7 +112,7 @@ JWT_REFRESH_EXPIRE=24 # hours
 
 ## 📸 Demo Video
 
-![Demo Video](./demo/video_demo.mp4)
+https://github.com/user-attachments/assets/523706fe-dc21-40c5-8af0-5e640c577ebd
 
 ## 🧪 Coming Soon
 
