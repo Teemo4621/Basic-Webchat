@@ -39,7 +39,7 @@ Stay connected with friends, teams, or communities through our powerful chat —
 
 ### Backend (Go)
 - Located in the `backend/` folder
-- Clean architecture layers: `delivery`, `usecase`, `repository`
+- Clean architecture layers: `controller`, `usecase`, `repository`
 - RESTful API and WebSocket endpoint
 - PostgreSQL with GORM for ORM
 
