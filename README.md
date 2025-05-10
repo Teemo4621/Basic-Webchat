@@ -1,5 +1,5 @@
 
-# Basic Realtime Chat
+# Basic Realtime Chat 💬
 
 Connect instantly. Chat without limits!  
 **Secure, Fast, Seamless.**
