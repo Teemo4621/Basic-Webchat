@@ -114,13 +114,8 @@ JWT_REFRESH_EXPIRE=24 # hours
 
 https://github.com/user-attachments/assets/523706fe-dc21-40c5-8af0-5e640c577ebd
 
-## 🧪 Coming Soon
-
-* User profile and avatars
-* File/image sharing in chat
-* Message history and pagination
-* Admin dashboard
-
 ## 🤝 Contributing
 
 We welcome contributions! Please fork the repo, create a feature branch, and open a pull request.
+
+## 🤍 Made with love by ZEMONNUB
